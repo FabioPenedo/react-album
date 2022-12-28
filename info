@@ -1,0 +1,9 @@
+https://jsonplaceholder.typicode.com/albums - listar todos os albuns
+https://jsonplaceholder.typicode.com/albums/1 - lista um bloco de informação pelo id
+https://jsonplaceholder.typicode.com/albums/1/photos
+https://jsonplaceholder.typicode.com/photos/1
+
+
+- Usar axios
+- configurar o BASEURL no axios
+- Utilizar rotas, e componentes com as rotas em forma de objeto
