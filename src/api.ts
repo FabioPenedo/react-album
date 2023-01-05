@@ -16,6 +16,7 @@ export const Api = {
     return response.data
   },
   listAllPicsById: async (id: string) => {
-    let response = await axiosInstance.get(`/albums/photos/${id}`)
+    let response = await axiosInstance.get(`/photos/${id}`)
+    return response.data
   }
 };
