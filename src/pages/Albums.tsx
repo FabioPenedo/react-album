@@ -33,7 +33,6 @@ export const Albums = () => {
     setLoading(false)
   }
 
-
   return (
     <div className="flex flex-col items-center justify-around my-8">
       <button
